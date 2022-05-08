@@ -37,10 +37,10 @@ public Integer getId() {
 public void setId(Integer id) {
 	this.id = id;
 }
-public String getCpg() {
+public String getCpf() {
 	return cpf;
 }
-public void setCpg(String cpf) {
+public void setCpf(String cpf) {
 	this.cpf = cpf;
 }
 public Conta getConta() {
